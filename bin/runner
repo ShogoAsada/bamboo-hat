@@ -1,0 +1,5 @@
+#! /usr/bin/ruby
+
+require_relative '../app/bamboo_hat'
+
+BambooHat.run
